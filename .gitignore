@@ -8,4 +8,7 @@
                              *.tmp
  #backup files
  *.bak
+#dist file es5
+ dist
+ public/dist
                                  *~
